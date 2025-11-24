@@ -90,14 +90,9 @@ article{
 img{
 	width: 100%;
 }
-#item-1{
-	order: 2;
-}
-#item-2{
-	order: 0;
-	
-}
-#item-3{
+.flex{
+	display: flex;
+	flex-wrap: wrap;
 	order: 1;
 }
 
