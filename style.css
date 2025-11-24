@@ -93,7 +93,6 @@ img{
 .flex{
 	display: flex;
 	flex-wrap: wrap;
-	order: 1;
 }
 
 aside{
